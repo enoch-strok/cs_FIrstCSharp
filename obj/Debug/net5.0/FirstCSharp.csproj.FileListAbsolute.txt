@@ -1,0 +1,16 @@
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/bin/Debug/net5.0/FirstCSharp
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/bin/Debug/net5.0/FirstCSharp.deps.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/bin/Debug/net5.0/FirstCSharp.runtimeconfig.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/bin/Debug/net5.0/FirstCSharp.runtimeconfig.dev.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/bin/Debug/net5.0/FirstCSharp.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/bin/Debug/net5.0/ref/FirstCSharp.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/bin/Debug/net5.0/FirstCSharp.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/obj/Debug/net5.0/FirstCSharp.csprojAssemblyReference.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/obj/Debug/net5.0/FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/obj/Debug/net5.0/FirstCSharp.AssemblyInfoInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/obj/Debug/net5.0/FirstCSharp.AssemblyInfo.cs
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/obj/Debug/net5.0/FirstCSharp.csproj.CoreCompileInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/obj/Debug/net5.0/FirstCSharp.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/obj/Debug/net5.0/ref/FirstCSharp.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/obj/Debug/net5.0/FirstCSharp.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/FirstCSharp/obj/Debug/net5.0/FirstCSharp.genruntimeconfig.cache
